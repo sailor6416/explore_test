@@ -3,5 +3,10 @@
     "height": 1,
     "lucky_uid": "panda",
     "url": "https://github.com/sailor6416/chain_test/blob/main/BLOCK-1.json"
+  },
+  {
+    "height": 2,
+    "lucky_uid": "Aurore",
+    "url": "https://github.com/sailor6416/chain_test/blob/main/BLOCK-2.json"
   }
 ]
